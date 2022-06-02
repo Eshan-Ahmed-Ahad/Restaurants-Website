@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'Trapstyle';
+    src: url('Trapstyle.eot');
+    src: local('Trapstyle'),
+        url('Trapstyle.eot?#iefix') format('embedded-opentype'),
+        url('Trapstyle.woff2') format('woff2'),
+        url('Trapstyle.woff') format('woff'),
+        url('Trapstyle.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Trapstyle Extra';
+    src: url('Trapstyle-Extra.eot');
+    src: local('Trapstyle Extra'), local('Trapstyle-Extra'),
+        url('Trapstyle-Extra.eot?#iefix') format('embedded-opentype'),
+        url('Trapstyle-Extra.woff2') format('woff2'),
+        url('Trapstyle-Extra.woff') format('woff'),
+        url('Trapstyle-Extra.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
